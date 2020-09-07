@@ -1,1 +1,1 @@
-# mobile_app_automation_31
+# Mobile Application Automation project - 31
